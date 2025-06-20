@@ -1,3 +1,4 @@
+from config import YOUTUBE_EMAIL, YOUTUBE_PASSWORD, COOKIES_FILE, REFRESH_INTERVAL
 """
 Single-file YouTube Cookie Manager using Playwright
 ==================================================

@@ -17,5 +17,7 @@ dependencies = [
     "trafilatura>=2.0.0",
     "pymongo>=4.12.1",
     "flask-login>=0.6.3",
+    "playwright",
+    "python-dotenv",
     "flask-wtf>=1.2.2",
 ]

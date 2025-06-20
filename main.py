@@ -1,4 +1,3 @@
-from cookie_manager import ensure_cookies, start_cookie_refresh_loop
 import asyncio
 import base64
 import datetime
